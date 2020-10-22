@@ -24,4 +24,4 @@
 
 
 [website]: https://www.instagram.com/trojancode/
-[evolvingkid]: https://github.com/trojancode
+[trojancode]: https://github.com/trojancode
