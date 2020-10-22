@@ -8,7 +8,7 @@
 -->
 
  ## Connect me with
-[<img align="left" alt="https://www.instagram.com/trojancode/" width="22px" src="https://github.com/evolvingkid/trojancode/blob/master/87390.png" />][website]
+[<img align="left" alt="https://www.instagram.com/trojancode/" width="22px" src="https://github.com/trojancode/trojancode/blob/master/87390.png" />][website]
 <br/>
 
 ### Languages:
