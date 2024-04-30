@@ -1,10 +1,4 @@
 ### Hi there, I'm Ajmal Musthafa - TROJANCODE 👋
-	
-- 🔭 I’m currently working on ... NO WHERE
-- 🌱 I’m currently working ... as Software Engineer at Coinedone 
-- 👯 I’m looking to collaborate on ... Flutter and MERN stack Developer
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Flutter
 -->
 
  ## Connect me with
